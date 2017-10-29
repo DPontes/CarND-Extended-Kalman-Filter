@@ -9,7 +9,8 @@ The files that were edited to accomplish the project are src/FusionEKF.cpp, src/
 
 The program main.cpp had already been filled out.
 
-
+## Results
+<img src="extra/SDCND_Term2_Proj1_Result.png" width="800px">
 
 Here is the main protcol that main.cpp uses for uWebSocketIO in communicating with the simulator.
 
